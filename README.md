@@ -18,7 +18,7 @@ Catkin_make : This is similar in concept to CMAKE. This command is used after ch
 ROSrun your_script : To execute a script or node in ROS type ROSRUN my_script.py 
 
 
-##To Run as provided in Virtual Machine:
+## To Run as provided in Virtual Machine:
 Open Visual Studio code all relevent files are in catkin_ws/src/beginner_tutorials/script
 Open a terminal in Visual Studio code or outside it, run type ROSCORE and leave running
 Open a second terminal type source devel/setup.bash, press enter then type catkin_make type enter. Then type rosrun beginner_tutorials speak.py and press enter and leave script running
