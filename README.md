@@ -7,15 +7,10 @@
 ## new ROS availble summer 2020 for Python 3 and Tensorflow 2.X
 ## new pretrained classifer may be required for new ROS/Python/Tensorflow combination
 
-Useful Commands
+![Screenshot](https://github.com/john-reilly/Pycon_Limerick_2020/blob/master/Screenshot_orange.png)
 
-ROScore : This is a program that must be running in the background the whole time you are running the ROS system.  Open a terminal and type "roscore" and just let it run.
 
-source devel/setup.bash : This command need to be typed into every new terminal to ensure the ROS in that terminal can see everything it need to run.
 
-Catkin_make : This is similar in concept to CMAKE. This command is used after changes are made and you need to "recompile" the project.
-
-ROSrun your_script : To execute a script or node in ROS type ROSRUN my_script.py 
 
 
 ## To Run as provided in Virtual Machine:
@@ -37,3 +32,14 @@ Extra resources in scripts folder and also in Firefox browser look at source cod
 Beware: if you make a new file it must be set to allow to execute file as a program in file permissions. You can adjust this in termianl or graphic file manager under properties. New node files need this done or they will not run.
 
 Also select save from menu before running to make sure changes are updated.
+
+---
+Useful Commands
+
+ROScore : This is a program that must be running in the background the whole time you are running the ROS system.  Open a terminal and type "roscore" and just let it run.
+
+source devel/setup.bash : This command need to be typed into every new terminal to ensure the ROS in that terminal can see everything it need to run.
+
+Catkin_make : This is similar in concept to CMAKE. This command is used after changes are made and you need to "recompile" the project.
+
+ROSrun your_script : To execute a script or node in ROS type ROSRUN my_script.py 
