@@ -1,11 +1,11 @@
 
 # Caution for lab or test environments only
-# as of February 2020
-# Python 2 (obsolete) , ROS Melodic Morenia (current) , Tensorflow 1.3 (obsolete) are used
-# Pretrained Classifier required Tensorflow version 1.3
-# and ROS Melodic problematic with Python 3
-# new ROS availble summer 2020 for Python 3 and Tensorflow 2.X
-# new pretrained classifer may be required for new ROS/Python/Tensorflow combination
+## as of February 2020
+## Python 2 (obsolete) , ROS Melodic Morenia (current) , Tensorflow 1.3 (obsolete) are used
+## Pretrained Classifier required Tensorflow version 1.3
+## and ROS Melodic problematic with Python 3
+## new ROS availble summer 2020 for Python 3 and Tensorflow 2.X
+## new pretrained classifer may be required for new ROS/Python/Tensorflow combination
 
 Useful Commands
 
@@ -18,7 +18,7 @@ Catkin_make : This is similar in concept to CMAKE. This command is used after ch
 ROSrun your_script : To execute a script or node in ROS type ROSRUN my_script.py 
 
 
-To Run as provided in Virtual Machine:
+##To Run as provided in Virtual Machine:
 Open Visual Studio code all relevent files are in catkin_ws/src/beginner_tutorials/script
 Open a terminal in Visual Studio code or outside it, run type ROSCORE and leave running
 Open a second terminal type source devel/setup.bash, press enter then type catkin_make type enter. Then type rosrun beginner_tutorials speak.py and press enter and leave script running
