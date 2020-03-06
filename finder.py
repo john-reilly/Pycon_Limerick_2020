@@ -174,6 +174,7 @@ def get_random_image():
 
     random_image =  cv2.imread(file_path,-1)
     #random_image = cv2.imread(base_dir + 'traffic_light.jpg') # This was to manualy select the traffic light file
+    #random_image = cv2.imread(base_dir + 'Beans_2.jpg') # This was to manualy select the beans file
     #print"filepath:" + file_path # This line is to check the file path
     
     return (random_image)
