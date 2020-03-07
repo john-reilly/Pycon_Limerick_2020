@@ -1,13 +1,14 @@
 
 # Caution for lab or test environments only
-## as of February 2020
-## Python 2 (obsolete) , ROS Melodic Morenia (current) , Tensorflow 1.3 (obsolete) are used
-## Pretrained Classifier required Tensorflow version 1.3
-## and ROS Melodic problematic with Python 3
-## new ROS availble summer 2020 for Python 3 and Tensorflow 2.X
-## new pretrained classifer may be required for new ROS/Python/Tensorflow combination
+### as of February 2020
+### Python 2 (obsolete) , ROS Melodic Morenia (current) , Tensorflow 1.3 (obsolete) are used
+### Pretrained Classifier required Tensorflow version 1.3
+### and ROS Melodic problematic with Python 3
+### new ROS availble summer 2020 for Python 3 and Tensorflow 2.X
+### new pretrained classifer may be required for new ROS/Python/Tensorflow combination
 
-
+## Download complete VM with all software and code from shared drive below:
+https://drive.google.com/open?id=18nRMI6Gu8cK4Ej1MyYeFWbvdbfv-EKlg
 
 ## Screenshot
 
