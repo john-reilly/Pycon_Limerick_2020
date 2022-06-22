@@ -1,7 +1,7 @@
 #REQUIREMENTS 
 # these requirements are for the image classifer and not for ROS
 
-numpy==1.16.6
+numpy==1.22.0
 scipy==1.0
 keras==2.3.0
 tensorflow==1.3.0
